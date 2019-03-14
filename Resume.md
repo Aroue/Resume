@@ -8,15 +8,11 @@
          ·
          <span>
              <img src="docs/assets/envelope-solid.svg" width="18px">
-             18290296998@163.com
-         </span>
-         ·
-         <span>
-             <img src="docs/assets/github-brands.svg" width="18px">
-             <a href="https://github.com/Aroue">Aroue</a>
+             blissleek@gmail.com
          </span>
      </div>
  </center>
+
 
 
 
@@ -29,9 +25,8 @@
 
 - 学士，重庆理工大学，软件工程专业，2016.9~2020.7
 - 绩点：**2.82**
-- 通过了 CET4 英语等级考试
 - 三次获得校级奖学金
-- 获得重庆理工大学第三届“大家杯”软件创意、创新大赛——作品阶段一等奖
+- 获得重庆理工大学第三届 “大家杯” 一等奖 / 第二十六届 “开拓杯” 一等奖
 
 ## <img src="docs/assets/briefcase-solid.svg" width="30px"> 工作经历
 
@@ -51,10 +46,12 @@
 
 ## <img src="docs/assets/tools-solid.svg" width="30px"> 技能清单
 
-- ★★☆ Java
-- ★★☆ ruby
-- ★★☆ MySQL
-- ★★☆ Spring
+- 熟悉 Java 基础，Java 容器等知识
+- 熟悉常用数据结构，算法
+- 熟悉设计模式，面向对象编程的思想
+- 熟悉 Java 开源框架 Spring，理解 IOC，AOP 思想
+- 熟悉mysql常用操作，了解 mysql 原理
+- 熟悉 git 常用操作有，有 git 团队开发经验
 
 
 
